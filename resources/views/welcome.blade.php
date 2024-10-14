@@ -21,6 +21,8 @@
 
     <a href="{{ url('locale/en') }}">English</a>
     <a href="{{ url('locale/ar') }}">Arabe</a>
+    <a href="{{ url('locale/es') }}">Spanish</a>
+    <a href="{{ url('locale/fr') }}">French</a>
 
     </body>
 </html>
